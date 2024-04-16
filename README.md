@@ -8,7 +8,7 @@
 <div style="margin-left: 20px;">
     ![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
 </div>
-![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
+
 
 <ul>
 <h2> Languages and Tools </h1>
