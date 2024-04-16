@@ -5,8 +5,10 @@
    <li>🏢 I work at Renaissance Bank as an engineer</li>
    <li>🚀 About projects : <a href="https://xata.pro" target="_blank">XaTa</a></li>
 </ul>
+
 <ul>
 Languages and Tools
+   
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
