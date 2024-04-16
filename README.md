@@ -5,7 +5,9 @@
    <li>🏢 I work at Renaissance Bank as an engineer</li>
    <li>🚀 About projects : <a href="https://xata.pro" target="_blank">XaTa</a></li>
 </ul>
-
+<div style="margin-left: 20px;">
+    ![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
+</div>
 ![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
 
 <ul>
