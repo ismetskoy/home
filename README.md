@@ -6,16 +6,14 @@
    <li>🚀 About projects : <a href="https://xata.pro" target="_blank">XaTa</a></li>
 </ul>
 
-<li>![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)</li>
-
-
+![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
 
 <ul>
 <h2> Languages and Tools </h1>
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,css,vim,discord,flask,github,gitlab,gmail,grafana,html,linux,nginx,postgres,postman,prometheus,py,redhat,sqlite,vscode,windows,,," />
   </a>
 </p>
 </ul>
