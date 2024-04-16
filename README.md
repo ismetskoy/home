@@ -1,5 +1,5 @@
 <h2 align="left">Hi i am Ivan  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h2>
 
 <ul>
    <li>🏢 I work at Renaissance Bank as an engineer</li>
@@ -7,7 +7,7 @@
 </ul>
 
 <ul>
-Languages and Tools
+<h2 Languages and Tools </h1>
    
 <p align="center">
   <a href="https://skillicons.dev">
