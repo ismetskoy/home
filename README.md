@@ -6,8 +6,10 @@
    <li>🚀 About projects : <a href="https://xata.pro" target="_blank">XaTa</a></li>
 </ul>
 
+![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
+
 <ul>
-<h2 Languages and Tools </h1>
+<h2> Languages and Tools </h1>
    
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,5 +17,3 @@
   </a>
 </p>
 </ul>
-
-![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
